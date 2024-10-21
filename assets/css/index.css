@@ -92,7 +92,7 @@
 }
 
 [data-mode = "dark"]{
-    color: dark;
+    color-scheme: dark;
     --background: var(--background-dark);
     --on-background: var(--on-background-dark);
     --primary: var(--primary-dark);
